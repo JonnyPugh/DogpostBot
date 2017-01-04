@@ -1,5 +1,5 @@
 venv
 *.pyc
 *.log
-images/*
+Project/static/images
 config.py
