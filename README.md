@@ -1,7 +1,11 @@
-### Developer: Jonathan Pugh
+# DogpostBot
+Developed by Jonathan Pugh
 
-### Features:
-  - 
+### Things to improve:
+- Add documentation similar to [WordpostBot](https://github.com/JonnyPugh/WordpostBot)
 
-### Live Access:
-  - 
+- Finish implementing website where users can upload pictures and suggest pages to use as sources
+
+- Implement video posts
+
+- Implement Instagram sources
